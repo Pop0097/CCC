@@ -2,7 +2,6 @@
 
 #include <iostream>
 #include <algorithm>
-#include <math.h>
 
 int comparision(const void * p, const void * q) {
 
