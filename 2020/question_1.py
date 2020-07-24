@@ -1,4 +1,4 @@
-
+# Score: 15/15
 
 def partition(arr, low, high): # Partition function
     i = low-1 # Index of smaller element
@@ -27,7 +27,7 @@ input_amount = int(input()) # Number of inputs provided
 inputs = [[0 for i in range(2)] for j in range(input_amount)] # Defines a 2D array initialized with 0s
 
 for row in range(input_amount):
-    # Python does not separate inputs with a space like C++, you have to take input as a string and split it 
+    # Python does not separate inputs with a space like C++, you have to take input as a string and split it
     inputs[row][0], inputs[row][1] = map(int, input().split()) # Takes in inputs one at a time and then splits them by the space and stores them as integers
 
 # Sort array in ascending order by time
