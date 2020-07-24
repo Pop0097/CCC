@@ -1,10 +1,10 @@
 # CCC
 
-My answers to the University of Waterloo CEMC CCC Senior questions. 
+Answers to the University of Waterloo CEMC CCC Senior questions. 
 
 ## Inspiration
 
-I want to improve my logic problem solving skills and work on my skills in C++ and Python.
+I wanted to improve my logic problem solving skills and work on my skills in C++ and Python.
 
 ## Reference for Contest
 

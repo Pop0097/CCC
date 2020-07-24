@@ -1,3 +1,5 @@
+/* Score: 13/15 */
+
 #include <iostream>
 #include <string>
 #include <vector>
