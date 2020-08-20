@@ -5,7 +5,7 @@
 
 using namespace std;
 
-map<int, int> primes;
+map<int, int> primes; //maps numbers to their status of prime (1), not prime (2), or unknown (0) 
 
 bool isPrime(int num) { //checks if number is prime
 
