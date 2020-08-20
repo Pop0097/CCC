@@ -38,7 +38,7 @@ bool isPrime(int num) { //checks if number is prime
 
         return prime;
     }
-}
+} 
 
 int main() {
     //gets inputs
